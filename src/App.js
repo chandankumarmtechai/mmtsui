@@ -8,7 +8,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Login/>
+        <h1>Hyderabad MMTS Booking</h1> <br/> <br/>
+        <Forms/>
       </header>
     </div>
   );
